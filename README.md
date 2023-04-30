@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm TyDev, a 14yo kid tbat likes messing with code.
+I'm TyDev, a 14yo kid that likes messing with code.
 
 # If you look like this hit me up please
 ![March 7th My Beloved](https://www.pockettactics.com/wp-content/sites/pockettactics/2022/01/honkai-star-rail-march-7-2.jpg)
