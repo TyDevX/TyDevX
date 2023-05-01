@@ -14,7 +14,7 @@ I'm your local 8th grade idiot lmao, nothing special.
 Here are some of the projects I'm currently working on:
 
 - [Radiant Anime Launcher](https://github.com/TyDevX/Radiant-Anime-Launcher) - A miHoYo game launcher made in Unity.
-- [R3DE](https://github.com/TyDevX/R3DE) - A 3D Rendering Engine in C/C++.
+- [R3DE](https://github.com/TyDevX/R3DE) - A 3D Render Engine in C for PC and PsVita.
 - [RHIU](https://github.com/TyDevX/RHIU) - A unity app that gives you a random hentai image.
 
 ## Past Projects
