@@ -13,16 +13,11 @@ I'm your local 8th grade idiot lmao, nothing special.
 
 Here are some of the projects I'm currently working on:
 
-- [Radiant Anime Launcher](https://github.com/TyDevX/Radiant-Anime-Launcher) - A miHoYo game launcher made in Unity.
+- [FX Engine](https://github.com/TyDevX/FX-Engine) - A work in progress FNF Engine.
+- [Funk 7 Engine](https://github.com/TyDevX/Funk-7-Engine) - A port of FNF Week 7 to FNF v0.2.1 with a custom engine.
+- [Radiant Anime Launcher](https://github.com/TeamRadiant/Radiant-Anime-Launcher) - A miHoYo game launcher made in Unity.
 - [R3DE](https://github.com/TyDevX/R3DE) - A 3D Render Engine in C for PC and PsVita.
 - [RHIU](https://github.com/TyDevX/RHIU) - A unity app that gives you a random hentai image.
-
-## Past Projects
-
-Here are some of the projects I've worked on in the past:
-
-- [Funk 7 Engine](https://github.com/SnesFX/Funk-7-Engine) - A port of FNF Week 7 to FNF v0.2.1 with a custom engine.
-- Will add more when I transfer them
 
 ## Code Languages I know
 
