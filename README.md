@@ -32,7 +32,7 @@ Here are some of the projects I'm currently working on:
 You can reach out to me through the following channels:
 
 - Twitter: [@TyDev_](https://twitter.com/TyDev_)
-- Discord: TyDevMD#9787
+- Discord: TyDev_#9787
 
 ## License
 
