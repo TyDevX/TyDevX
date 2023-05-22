@@ -3,7 +3,7 @@
 I'm TyDev, a 14yo kid that likes messing with code.
 
 # If you look like this hit me up please
-![March 7th My Beloved](https://www.pockettactics.com/wp-content/sites/pockettactics/2022/01/honkai-star-rail-march-7-2.jpg)
+![Monika DDLC <3](https://i1.sndcdn.com/artworks-000254624831-37rr44-t500x500.jpg)
 
 ## About Me
 
