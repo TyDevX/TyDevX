@@ -40,7 +40,7 @@ All of my code is licensed under the [MIT License](https://github.com/git/git-sc
 
 ## Contributions
 
-I haven't contributed to any open source projects yet, but I'm down to get help with stuff I guess.
+I haven't contributed to any open source projects yet, but I'm down to help with stuff I guess.
 
 ## Acknowledgments
 
