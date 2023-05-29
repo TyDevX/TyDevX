@@ -26,10 +26,11 @@ Here are some of the projects I'm currently working on:
 - C#
 - C/C++
 - Haxe
+- Ren'py
 
 ## Contact Me
 
-You can reach out to me through the following channels:
+You can reach out to me through the following:
 
 - Twitter: [@TyDev_](https://twitter.com/TyDev_)
 - Discord: TyDev_#9787
