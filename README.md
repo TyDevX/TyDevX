@@ -8,7 +8,7 @@ I'm TyDev, a 14yo kid that likes messing with code.
 
 ## About Me
 
-I'm your local 8th grade idiot lmao, nothing special.
+I'm your local 9th grade idiot lmao, nothing special.
 
 ## Current Projects
 
