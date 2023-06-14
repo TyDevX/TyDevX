@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm TyDev, a 14yo kid that likes messing with code.
+I'm Frye/TyDev, a 14yo kid that likes messing with code.
 
 # If you look like one of these two characters hit me up please
 ![Monika DDLC <3](https://i1.sndcdn.com/artworks-000254624831-37rr44-t500x500.jpg)
