@@ -16,7 +16,7 @@ Here are some of the projects I'm currently working on:
 
 - [FX Engine](https://github.com/TyDevX/FX-Engine) - A work in progress FNF Engine.
 - [Funk 7 Engine](https://github.com/TyDevX/Funk-7-Engine) - A port of FNF Week 7 to FNF v0.2.1 with a custom engine.
-- [Vs Ty: One Last Build](twitter.com/VsTyOLB) - A very cool fnf mod that's releasing soon
+- [Vs Ty: One Last Build](https://twitter.com/VsTyOLB) - A very cool fnf mod that's releasing soon
 - [Yandere Sandbox](https://gamejolt.com/games/yanderesandbox/816926) - A Yandere Sim fan-game that's well uhh Yandere Sim x Gmod
   
 ## Finished Projects
