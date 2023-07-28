@@ -1,9 +1,6 @@
-# Hey there! 👋
+## Hey all!
 
 I'm Frye/TyDev, a 14yo kid that likes messing with code.
-
-# If you look like her hit me up.
-![Shimakaze<3](https://static.wikia.nocookie.net/p__/images/a/ae/Shimakaze.png/revision/latest?cb=20140214174658&path-prefix=protagonist)
 
 ## About Me
 
