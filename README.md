@@ -13,7 +13,7 @@ Here are some of the projects I'm currently working on:
 - [FX Engine](https://github.com/TyDevX/FX-Engine) - A work in progress FNF Engine.
 - [Vs Ty: One Last Build](https://twitter.com/VsTyOLB) - A very cool fnf mod that's releasing soon
 - [Friday Night Funkin' Mega CD Locked On](https://gamebanana.com/mods/397845) A very cool Friday Night Funkin' mod based on Sonic CD
-- [FunkinU] (No link yet) -  An attempt to de-make Friday Night Funkin' in Unity
+- [Funkin' Android Rewritten](https://github.com/TyDevX/Funkin-Android-Rewritten) -  A rewritten version of Friday Night Funkin' for android devices
 - [Yandere Sandbox](https://gamejolt.com/games/yanderesandbox/816926) - A work in progress Yandere Sim fan-game that's well uhh Yandere Sim x Gmod
 - [FumoLand] (No link yet) - A stupid work in progress touhou fan-game thing based around being a Reimu fumo and Cirno fumo. (Don't expect it to be much)
   
