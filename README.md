@@ -39,7 +39,7 @@ Here are some of the projects I'm currently working on:
 You can reach out to me through the following:
 
 - Twitter: [@TyDev_](https://twitter.com/TyDev_)
-- Discord: funkiin
+- Discord: tydevx
 
 # Website Credits
 
