@@ -21,7 +21,7 @@ Here are some of the projects I'm currently working on:
 
 - [RHIU](https://github.com/TyDevX/RHIU) - A unity app that gives you a random hentai image.
 - [Radiant Anime Launcher](https://github.com/Team-Radiant/Radiant-Anime-Launcher) - A miHoYo game launcher made in Unity.
-- [Funkin for the EHHH TEAM](https://gamebanana.com/mods/455360) - A chart of Nick Eh 30's stream into
+- [Funkin for the EHHH TEAM](https://gamebanana.com/mods/455360) - A chart of Nick Eh 30's stream intro
 - [Funk 7 Engine](https://github.com/TyDevX/Funk-7-Engine) - A port of FNF Week 7 to FNF v0.2.1 with a custom engine.
 
 
