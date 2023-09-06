@@ -1,6 +1,6 @@
 ## Hey all!
 
-I'm Frye/TyDev, a 14yo kid that likes messing with code.
+I'm TyDev, a 14yo kid that likes messing with code.
 
 ## About Me
 
